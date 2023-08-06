@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -54,10 +57,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ReggieTakeout/src/main/java/com/itheima/reggie/entity" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.29712042" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.android" />
@@ -129,6 +132,7 @@
       <workItem from="1688729723399" duration="14004000" />
       <workItem from="1688818340998" duration="4578000" />
       <workItem from="1688904564663" duration="1517000" />
+      <workItem from="1691337337366" duration="449000" />
     </task>
     <servers />
   </component>
